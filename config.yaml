@@ -1,5 +1,5 @@
 settings:
-  title: '保活'
+  title: 'Status Page'
   url: 'https://baohuo.kangruli.eu.org' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
