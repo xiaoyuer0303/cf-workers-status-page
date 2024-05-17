@@ -15,10 +15,10 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: 名称1 # unique identifier
-    name: 名称1
+  - id: 保活 # unique identifier
+    name: 保活
     description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://workers.cloudflare.com/' # URL to fetch
+    url: 'լի.հայ/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
