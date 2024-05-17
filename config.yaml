@@ -18,7 +18,7 @@ monitors:
   - id: 保活 # unique identifier
     name: 保活
     description: 'You write code. They handle the rest.' # default=empty
-    url: 'լի.հայ/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
+    url: 'https://լի.հայ/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
