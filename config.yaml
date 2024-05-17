@@ -60,3 +60,38 @@ monitors:
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
 
+  - id: workers-cloudflare-com # unique identifier
+    name: 保活
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://lee.cloudns.ch/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: workers-cloudflare-com # unique identifier
+    name: 保活
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://webseek.serv00.net/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: workers-cloudflare-com # unique identifier
+    name: 保活
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://pack.serv00.net/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: workers-cloudflare-com # unique identifier
+    name: 保活
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://package.serv00.net/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
