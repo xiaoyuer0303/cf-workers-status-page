@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活լի-cf
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://լի.հայ/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
     method: GET # default=GET
@@ -25,16 +25,16 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活amy-cf
     description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://https://amy.cloudns.be/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
+    url: 'https://amy.cloudns.be/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
 
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活jiner-cf
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://jiner.cloudns.be/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
     method: GET # default=GET
@@ -43,7 +43,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活ju-cf
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://ju.cloudns.be/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
     method: GET # default=GET
@@ -52,7 +52,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活tao-cf
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://tao.cloudns.ch/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
     method: GET # default=GET
@@ -61,7 +61,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活lee-cf
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://lee.cloudns.ch/4d8e3a90-9256-43ad-98f1-7056f9305be4' # URL to fetch
     method: GET # default=GET
@@ -70,7 +70,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活webseek
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://webseek.serv00.net/' # URL to fetch
     method: GET # default=GET
@@ -79,7 +79,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活pack
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://pack.serv00.net/' # URL to fetch
     method: GET # default=GET
@@ -88,7 +88,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: workers-cloudflare-com # unique identifier
-    name: 保活
+    name: 保活package
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://package.serv00.net/' # URL to fetch
     method: GET # default=GET
