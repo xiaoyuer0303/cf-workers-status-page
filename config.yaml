@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: workers-cloudflare-com # unique identifier
-    name: workers.cloudflare.com
+    name: 百度
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://workers.cloudflare.com/' # URL to fetch
     method: GET # default=GET
