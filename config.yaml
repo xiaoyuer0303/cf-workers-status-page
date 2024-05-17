@@ -15,8 +15,8 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: workers-cloudflare-com # unique identifier
-    name: 百度
+  - id: 名称1 # unique identifier
+    name: 名称1
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://workers.cloudflare.com/' # URL to fetch
     method: GET # default=GET
